@@ -1,0 +1,2 @@
+# validadorDeCorrelatividades
+Ejercicio de DDSI
